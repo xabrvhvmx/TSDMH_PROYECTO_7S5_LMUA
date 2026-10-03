@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TSDMH_PROYECTO_LMUA</string>
+    <string name="p1titulo1">Proyecto TSDMH</string>
+    <string name="p1nombre">Lopez Meza Uriel Abraham</string>
+    <string name="p2menu">Menu de Opciones</string>
+    <string name="p2btn1">Calcular RFC</string>
+    <string name="p2btn2">Sacar Edad</string>
+    <string name="p2btn3">Acerca de</string>
+    <string name="p3rfc">RFC</string>
+    <string name="p3rfc1">Nombre(s)</string>
+    <string name="p3rfc2">Apellido Paterno</string>
+    <string name="p3rfc3">Apellido Materno</string>
+    <string name="p3rfc4">Dia de nacimiento</string>
+    <string name="p3rfc5">Mes de nacimiento</string>
+    <string name="p3rfc6">Año de nacimiento</string>
+    <string name="p3btn1">Obtener</string>
+    <string name="p3resultado">Resultado</string>
+    "
+    <string name="p4titulo1">Obtener Edad</string>
+    <string name="p4mes">Mes de nacimiento</string>
+    <string name="p4año">Año de nacimiento</string>
+    <string name="p4btn1">Calcular</string>
+    <string name="p4resultado">Resultado</string>
+    <string name="p5titulo1">Acerca de</string>
+    <string name="p5info">Lopez Meza Uriel Abraham</string>
+    <string name="p5instituto">TESOEM</string>
+    <string name="p5version">Version Beta</string>
+    <string name="p5contacto">abrahamlm2k@gmail.com</string>
+</resources>
